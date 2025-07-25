@@ -1,0 +1,5 @@
+print("What is your input")
+user_name = input()
+print("Hello" , user_name)
+learn = input("What do you want to learn")
+print("lets start learning" , learn)
