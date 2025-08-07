@@ -1,0 +1,10 @@
+print("Lunch Menu")
+print("...........")
+print("Bjahjha")
+print("ghjghja")
+print("Taco")
+print("salad")
+print()
+
+item1 = input("item #1: ")
+item2 = input("item #2: ")
